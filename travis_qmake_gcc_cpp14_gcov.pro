@@ -2,7 +2,7 @@ TEMPLATE = app
 CONFIG += console
 CONFIG -= app_bundle qt
 
-SOURCES += main_gcov.cpp do_magic.cpp
+SOURCES += main.cpp do_magic.cpp
 HEADERS += do_magic.h
 
 # Compile with high warning levels
