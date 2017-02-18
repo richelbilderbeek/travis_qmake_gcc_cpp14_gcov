@@ -20,7 +20,7 @@ script:
   - make
   - ./travis_qmake_gcc_cpp14_gcov
   # Codecov
-  - ./get_code_cov.sh
+  - ./get_code_cov
   - codecov
 
 after_success:
