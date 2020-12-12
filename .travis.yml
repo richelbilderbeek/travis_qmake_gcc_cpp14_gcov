@@ -11,7 +11,7 @@ script:
   - make --silent
   - ./travis_qmake_gcc_cpp14_gcov
   # Codecov
-  - ./get_code_cov >/dev/null
+  - ./get_code_cov.sh >/dev/null
   - codecov >/dev/null
 
 after_success:

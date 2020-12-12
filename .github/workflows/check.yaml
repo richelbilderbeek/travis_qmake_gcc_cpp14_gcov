@@ -27,6 +27,6 @@ jobs:
 
       - name: Measure codecov
         run: |
-          - ./get_code_cov > /dev/null
-          - codecov > /dev/null
+          - ./get_code_cov.sh >/dev/null
+          - codecov >/dev/null
           - bash <(curl -s https://codecov.io/bash)
