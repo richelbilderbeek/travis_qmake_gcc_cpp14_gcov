@@ -17,6 +17,16 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 Additionally, the code coverage is measured by CodeCov.
 
+More complex builds:
+
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_gcov) Use C++17: [travis_qmake_gcc_cpp17_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_gcov)
+
+Builds of similar complexity:
+
+ * [![pipeline status](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp14_gcov/badges/master/pipeline.svg)](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp14_gcov/commits/master) Use GitLab CI: [gitlab_qmake_gcc_cpp14_gcov](https://www.gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp14_gcov)
+
 Less complex builds:
- * C++98: [travis_qmake_gcc_cpp98_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
- * C++11: [travis_qmake_gcc_cpp11_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_gcov)
+
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14) Use C++14 without codecov: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
+
+
