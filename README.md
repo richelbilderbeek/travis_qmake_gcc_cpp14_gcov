@@ -23,7 +23,9 @@ More complex builds:
 
 Builds of similar complexity:
 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_gcov) Use Travis CI: [travis_qmake_gcc_cpp14_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_gcov)
  * [![pipeline status](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp14_gcov/badges/master/pipeline.svg)](https://gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp14_gcov/commits/master) Use GitLab CI: [gitlab_qmake_gcc_cpp14_gcov](https://www.gitlab.com/richelbilderbeek/gitlab_qmake_gcc_cpp14_gcov)
+ * ![GitHub Actions](https://github.com/richelbilderbeek/gha_qmake_gcc_cpp14_gcov/workflows/check/badge.svg?branch=master) Use GitHub Actions: [gha_qmake_gcc_cpp14_gcov](https://www.github.com/richelbilderbeek/gha_qmake_gcc_cpp14_gcov)
 
 Less complex builds:
 
